@@ -2,9 +2,8 @@
 
 /**
  * flip_bits - counts the number of bits to change
- * @n: first number
- * @j: second number
- *
+ * @n - first number
+ * @j - second number
  * Return: no of bits to change
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int j)
