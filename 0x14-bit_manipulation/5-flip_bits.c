@@ -3,9 +3,9 @@
 /**
  * flip_bits - counts the number of bits to change
  * @n: first number
- * @m: second number
+ * @j: second number
  *
- * Return: number of bits to change
+ * Return: no of bits to change
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int j)
 {
@@ -22,4 +22,3 @@ unsigned int flip_bits(unsigned long int n, unsigned long int j)
 
 	return (count);
 }
-
